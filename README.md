@@ -5,12 +5,12 @@
 
 ## About Project: 
   ![Technology Badge](https://img.shields.io/badge/Technology-HTML%20%7C%20CSS-green)
-  ### This project is "assignment 1" of HTML, CSS module of [Full Stack Javascript Web Developer Bootcamp](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer) by [Hitesh Choudhary](https://www.youtube.com/c/HiteshChoudharydotcom) on [ineuron.ai](https://ineuron.ai/) platform. 
+  ### This project is "assignment 8" of HTML, CSS module of [Full Stack Javascript Web Developer Bootcamp](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer) by [Hitesh Choudhary](https://www.youtube.com/c/HiteshChoudharydotcom) on [ineuron.ai](https://ineuron.ai/) platform. 
    
 #### Requirement/Problem statement: 
 - To convert a given design (PNG file attached at the end) into HTML, CSS code.
     - Flexbox/grid/external libraries/framework shouldn't be used.
-    - Responsiveness is not required.
+    - Responsiveness is required.
 
 #### Learnings/experiences from building this project:
 - Took just 1 hour to build it.
